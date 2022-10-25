@@ -26,12 +26,12 @@ b = "dumb"
 print("Your brain gets ", a, "but your head gets ", b)
 ```
 
-So much to do, `print("so much to see")`
-*So what's wrong * `print("with taking the back street")`
+*So much to do,* `print(" so much to see")`
+*So what's wrong* `print(" with taking the back street")`
 
 You'll never know if you don't go
 
 You'll never shine if you don't glow
 
 
-![Shrek](md_zadania/shrek.jpg "Shrek")
+![Shrek](shrek.jpg "Shrek")
