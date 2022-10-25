@@ -8,8 +8,8 @@
 ~~I ain't the sharpest tool in the shed~~
 
 1.She was looking kinda dumb
-	2. With her finger and her thumb
-		3. In shape of an "L" on her forehead
+2. With her finger and her thumb
+3. In shape of an "L" on her forehead
 
 
 Well
@@ -29,7 +29,9 @@ print("Your brain gets ", a, "but your head gets ", b)
 So much to do, `print("so much to see")`
 *So what's wrong * `print("with taking the back street")
 
-==You'll never know if you don't go==
-==You'll never shine if you don't glow==
+You'll never know if you don't go
+
+You'll never shine if you don't glow
 
 
+![Shrek](md_zadania/shrek.jpeg "Shrek")
