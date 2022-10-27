@@ -7,6 +7,7 @@
 
 ~~I ain't the sharpest tool in the shed~~
 
+
 - She was looking kinda dumb
 	- With her finger and her thumb
 		- In shape of an "L" on her forehead
@@ -18,6 +19,7 @@ Well
 * fed to the rules 
 	- and I hit the ground running 
 
+
 ```
 print("Didn't make sense")
 print("Not to live for fun")
@@ -26,8 +28,10 @@ b = "dumb"
 print("Your brain gets ", a, "but your head gets ", b)
 ```
 
+
 *So much to do,* `print(" so much to see")`
 *So what's wrong* `print(" with taking the back street")`
+
 
 **You'll never know if you don't go**
 
@@ -46,6 +50,8 @@ Hey now
 
 
 *All that glitters is gold*
+
 *Only shooting stars break the mold~*
+
 
 ![Shrek](shrek.jpg "Shrek")
