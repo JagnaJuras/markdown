@@ -8,8 +8,8 @@
 ~~I ain't the sharpest tool in the shed~~
 
 1. She was looking kinda dumb
-2. With her finger and her thumb
-3. In shape of an "L" on her forehead
+	2. With her finger and her thumb
+		3. In shape of an "L" on her forehead
 
 
 Well
