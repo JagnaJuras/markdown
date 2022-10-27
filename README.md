@@ -33,14 +33,15 @@ You'll never know if you don't go
 
 You'll never shine if you don't glow
 
-1. Hey now
-	- You're an all star
-	- Get your game on
-		- Go play
-2. Hey now
-	- You're a rock star
-	- Get your show on
-		- Get paid
+Hey now
+1. You're an all star
+2. Get your game on
+3. Go play
+
+Hey now
+1. You're a rock star
+2. Get your show on
+3. Get paid
 
 
 ![Shrek](shrek.jpg "Shrek")
