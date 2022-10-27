@@ -7,9 +7,9 @@
 
 ~~I ain't the sharpest tool in the shed~~
 
-1. She was looking kinda dumb
-	2. With her finger and her thumb
-		3. In shape of an "L" on her forehead
+- She was looking kinda dumb
+	- With her finger and her thumb
+		- In shape of an "L" on her forehead
 
 
 Well
@@ -32,6 +32,15 @@ print("Your brain gets ", a, "but your head gets ", b)
 You'll never know if you don't go
 
 You'll never shine if you don't glow
+
+1. Hey now
+	- You're an all star
+	- Get your game on
+		- Go play
+2. Hey now
+	- You're a rock star
+	- Get your show on
+		- Get paid
 
 
 ![Shrek](shrek.jpg "Shrek")
