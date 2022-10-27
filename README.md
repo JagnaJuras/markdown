@@ -29,9 +29,10 @@ print("Your brain gets ", a, "but your head gets ", b)
 *So much to do,* `print(" so much to see")`
 *So what's wrong* `print(" with taking the back street")`
 
-You'll never know if you don't go
+**You'll never know if you don't go**
 
-You'll never shine if you don't glow
+***You'll never shine if you don't glow***
+
 
 Hey now
 1. You're an all star
@@ -40,8 +41,11 @@ Hey now
 
 Hey now
 1. You're a rock star
-2. Get your show on
+2. Get the show on
 3. Get paid
 
+
+*All that glitters is gold*
+*Only shooting stars break the mold~*
 
 ![Shrek](shrek.jpg "Shrek")
