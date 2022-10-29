@@ -8,7 +8,7 @@
 ~~I ain't the sharpest tool in the shed~~
 
 
-- She was looking kinda dumb
+1. She was looking kinda dumb
 	- With her finger and her thumb
 		- In shape of an "L" on her forehead
 
