@@ -1,5 +1,6 @@
-# All Star
+# All Star - Smash Mouth
 
+## Verse 1
 
 **Somebody once told me**
 
@@ -12,6 +13,7 @@
 	- With her finger and her thumb
 		- In shape of an "L" on her forehead
 
+## Pre-Chorus
 
 Well
 - the years start coming
@@ -37,6 +39,7 @@ print("Your brain gets ", a, "but your head gets ", b)
 
 ***You'll never shine if you don't glow***
 
+## Chorus
 
 Hey now
 1. You're an all star
@@ -56,7 +59,7 @@ Hey now
 
 ![Shrek](shrek.jpg "Shrek")
 
-
+## Verse 2
 
 | It's a | cool | place |
 |:-----:|:-----:|:-----:|
@@ -82,9 +85,5 @@ print(verse(a, b))
 - [x] The water's getting warm so you might as well swim
 
 
-My world's on fire :fire: how 'bout yours? :point_right:
-That's the way I like it :100: and I'll never get bored :sunglasses:
-
-
-[^1]: Often misinterpreted as "media men". "Meteor men" might be referring to meteorologists - weathermen don’t think the world is getting colder, and thus, the “hole” could possibly be referring to the ozone layer (https://genius.com).
-
+My world's on fire, how 'bout yours?
+That's the way I like it and I'll never get bored
